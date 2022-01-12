@@ -61,18 +61,7 @@ body {
     display : flex;
 }
 
-.foot{
-    position : realtive;
-}
 
-.foot-step {
-width : 50%;
-margin-top: 150px;
-}
-
-img.foot-step.second-foot{
-    margin-right: 90%;
-}
 
 .hero__container__text {
     position: relative;
@@ -93,10 +82,7 @@ img.foot-step.second-foot{
 .ladki {
     width : 70%;
     margin: 100px;
-}
-img.foot-step.third-foot {
-    ;
-
+    margin-top : 30%;
 }
 
 .footer{
@@ -151,10 +137,115 @@ ul {
 }
 
 
+.foot{
+    position : realtive;
+}
 
 
+.foot-step {
+width : 100%;
+margin-top: 70px;
+}
 
+img.foot-step2{
+    margin-right: 90%;
+    padding: 50px;
+    width : 90%;
+    margin-top: -200px;
+}
 
+.foot_flex{
+    display : flex;
+    justify-content:space-evenly;
+}
+
+.foot-step3{
+    margin-left: 200px;
+    width :80%; 
+    margin-top: -130px;
+}
+
+.foot-step4 {
+    width : 100%;
+    margin-top: -100px;
+
+}
+
+.foot_flex2{
+    display : flex;
+    justify-content:start;
+    gap: 20%;
+}
+
+.foot-step5 {
+    width :7cm;
+    margin-top: 70px;
+}
+
+.foot-step6{
+    width: 9cm;
+    margin-top: 70px;
+}
+
+.foot_flex3{
+    justify-content: start;
+    display: flex;
+    gap: 20%;
+}
+
+.foot-step7 {
+    width : 120%;
+    margin-top:-70px;
+}
+
+.foot-step8 {
+    width : 120%;
+}
+
+.foot_flex4{
+    justify-content: start;
+    display: flex;
+    gap: 20%;
+    margin-left: 10%;
+}
+
+.foot-step9 {
+    width : 120%;
+}
+
+.foot-step10 {
+    width : 120%;
+}
+.foot-step11 {
+    width : 120%;
+    margin-top:-70px;
+}
+
+.foot_flex4{
+    justify-content: end;
+}
+
+.foot-step12{
+    width : 30%;
+    margin-right: 40px;
+    margin-top: -30%;
+}
+
+.foot_flex5{
+    justify-content: end;
+    display: flex;
+    gap : 25%;
+    margin-right: 20%;
+}
+
+.foot-step13 {
+    width : 180%;
+    margin-top: 50%;
+}
+
+.foot-step14 {
+    width : 180%;
+}
 
 
 
